@@ -4,10 +4,11 @@ This project predicts the Remaining Useful Life (RUL) of NASA CMAPPS using a GRU
 
 ## File Structure
 - `data/`: Contains raw data files.
-- `notebooks/`: Jupyter notebooks for EDA.
 - `src/`: Core code files.
 - `results/`: Stores plots and model checkpoints.
-- `main.py`: Main script to run the pipeline.
+- `evaluate.py`: Main script to run the pipeline (trains and tests).
 
 ## Setup
-1. Install dependencies:
+1. Install dependencies
+2. Copy data path to load_and_split_data function in evaluate.py
+3. Run evaluate.py
