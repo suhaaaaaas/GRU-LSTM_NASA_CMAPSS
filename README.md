@@ -1,4 +1,4 @@
-# RUL Prediction with GRU RNN
+# RUL Prediction with GRU/LSTM RNN
 
 This project predicts the Remaining Useful Life (RUL) of NASA CMAPPS using a GRU-based RNN.
 
