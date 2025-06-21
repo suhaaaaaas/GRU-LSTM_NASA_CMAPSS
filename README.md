@@ -138,16 +138,7 @@ python evaluate.py
 
 ## **Citation**
 
-```bibtex
-@article{barnett2025realistic,
-  title={Towards Realistic Benchmarking for Aircraft Engine Remaining Useful Life Prediction},
-  author={Barnett, Brendan and Nadella, Suhaas and Nguyen, Truc Ho and Nagabandi, Ankith and Goel, Jai and Lee, Jeremiah and Seto, Danbing and Ji, Shihao},
-  journal={arXiv preprint},
-  year={2025},
-  month={May}
-}
-```
-
+The paper is included in the repository as 'RUL Draft.pdf'
 ---
 
 **Built for advancing predictive maintenance from laboratory to flight line**
